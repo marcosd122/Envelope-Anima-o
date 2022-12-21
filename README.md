@@ -1,6 +1,6 @@
-# Curso-WEB -- Aplicativo Meteorológico
+# Curso-WEB -- Envelope Animação
 
-Projeto de desenvolvimento Aplicativo Meteorológico
+Projeto de desenvolvimento Envelope Animação
 
 Atividade curso Web
 
